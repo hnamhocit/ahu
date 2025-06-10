@@ -11,7 +11,7 @@
 <Authenticate>
 	<Header />
 
-	<div class="min-h-[calc(100vh-64px)] space-y-16 bg-[#121212] px-4 text-[#fff]">
+	<div class="min-h-[calc(100vh-64px)] space-y-16 bg-gray-950 px-4 text-[#fff]">
 		{@render children()}
 	</div>
 
